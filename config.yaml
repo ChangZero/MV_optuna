@@ -1,0 +1,5 @@
+train_path: ""
+epoch:
+batch_size:
+seed:
+model_name: ""
